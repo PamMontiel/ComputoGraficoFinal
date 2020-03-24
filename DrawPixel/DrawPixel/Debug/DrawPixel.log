@@ -1,0 +1,4 @@
+﻿  DrawPixel.cpp
+D:\DrawPixel\DrawPixel\DrawPixel.cpp(185,14): warning C4101: 'yMouse': variable local sin referencia
+D:\DrawPixel\DrawPixel\DrawPixel.cpp(185,6): warning C4101: 'xMouse': variable local sin referencia
+  DrawPixel.vcxproj -> D:\DrawPixel\Debug\DrawPixel.exe
